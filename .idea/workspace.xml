@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a97e6207-3559-44ab-a04a-2e67ac9dc65c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XiIK7D1KN5QZ58HDdi6LGUjAYw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.sat4j.moco" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.correr">
+    <configuration name="Analyzer" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.sat4j.moco.analysis.Analyzer" />
+      <module name="org.sat4j.moco" />
+      <option name="PROGRAM_PARAMETERS" value="f1-DataDisplay_0_order4.seq-B-3-combined-irEDCBA.pbmo mcse:f1-DataDisplay_0_order4.seq-B-3-combined-irEDCBA.out -v 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/org.sat4j.moco-0.0.1-SNAPSHOT-jar-with-dependencies.jar" />
+      <option name="PROGRAM_PARAMETERS" value="-cp target/org.sat4j.moco-0.0.1-SNAPSHOT-jar-with-dependencies.jar org.sat4j.moco.analysis.Analyzer f1-DataDisplay_0_order4.seq-B-3-combined-irEDCBA.pbmo mcse:f1-DataDisplay_0_order4.seq-B-3-combined-irEDCBA.out" />
+      <option name="WORKING_DIRECTORY" value="D:\Thesis\moco-master" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/org.sat4j.moco-0.0.1-SNAPSHOT-jar-with-dependencies.jar" />
+      <option name="PROGRAM_PARAMETERS" value="-cp target/org.sat4j.moco-0.0.1-SNAPSHOT-jar-with-dependencies.jar org.sat4j.moco.analysis.Analyzer f1-DataDisplay_0_order4.seq-B-3-combined-irEDCBA.pbmo mcse:f1-DataDisplay_0_order4.seq-B-3-combined-irEDCBA.out" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="correr" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/org.sat4j.moco-0.0.1-SNAPSHOT-jar-with-dependencies.jar" />
+      <option name="PROGRAM_PARAMETERS" value="tests/flying-tourist-problem/ftp_5_2_7_6_4.pbmo -alg MOEAD -seed 75 -smr 0.01 -t 1800" />
+      <option name="WORKING_DIRECTORY" value="D:\Thesis\moco-master" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="org.sat4j.moco [clean,-DskipTests=True...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="java" />
+                <option value="-jar" />
+                <option value="target/org.sat4j.moco-0.0.1-SNAPSHOT-jar-with-dependencies.jar" />
+                <option value="tests/test8.opb" />
+                <option value="-alg" />
+                <option value="NSGAII" />
+                <option value="-t" />
+                <option value="5" />
+                <option value="-smr" />
+                <option value="0.1" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="true" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Analyzer" />
+      <item itemvalue="JAR Application.Unnamed" />
+      <item itemvalue="JAR Application.correr" />
+      <item itemvalue="Maven.org.sat4j.moco [clean,-DskipTests=True...]" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a97e6207-3559-44ab-a04a-2e67ac9dc65c" name="Default Changelist" comment="" />
+      <created>1581522421309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581522421309</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="50" width="1089" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603817208248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="50" width="1089" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603817208248" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1607625474727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607625474727" />
+    <state width="1493" height="100" key="GridCell.Tab.0.bottom" timestamp="1603833377978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="100" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603833377978" />
+    <state width="1493" height="100" key="GridCell.Tab.0.center" timestamp="1603833377977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="100" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603833377977" />
+    <state width="1493" height="100" key="GridCell.Tab.0.left" timestamp="1603833377977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="100" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603833377977" />
+    <state width="1493" height="100" key="GridCell.Tab.0.right" timestamp="1603833377978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="100" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603833377978" />
+    <state width="1493" height="100" key="GridCell.Tab.1.bottom" timestamp="1603833377978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="100" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603833377978" />
+    <state width="1493" height="100" key="GridCell.Tab.1.center" timestamp="1603833377978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="100" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603833377978" />
+    <state width="1493" height="100" key="GridCell.Tab.1.left" timestamp="1603833377978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="100" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603833377978" />
+    <state width="1493" height="100" key="GridCell.Tab.1.right" timestamp="1603833377978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="100" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603833377978" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1603817245536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1603817245536" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1611321546779">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1611321546779" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605625660294">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605625660294" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((java.util.ArrayList)((NondominatedPopulation)p).data).get(86)" custom="org.moeaframework.core.NondominatedPopulation,java.util.ArrayList" />
+      </configuration>
+      <configuration name="JarApplication">
+        <watch expression="((Object[])((Vec)((PBSolverResolution)this.solver.solver).constrs).myarray)[2]" custom="java.lang.Object[],org.sat4j.core.Vec,org.sat4j.pb.core.PBSolverResolution" />
+        <watch expression="this.alg" language="JAVA" />
+        <watch expression="this.alg" language="JAVA" />
+        <watch expression="extractor" language="JAVA" />
+        <watch expression="this.alg" language="JAVA" />
+        <watch expression="improved_model[4]" />
+        <watch expression="new_result.variables" />
+        <watch expression="sol.variables[8]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/org_sat4j_moco$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1588877206549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
